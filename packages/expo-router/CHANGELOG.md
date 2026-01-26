@@ -7,8 +7,10 @@
 ### 🎉 New features
 
 - fallback to title when label is not present in Stack.Toolbar.Menu ([#42531](https://github.com/expo/expo/pull/42531) by [@Ubax](https://github.com/Ubax))
+- [ios] accept Label, Icon and Badge prop in menu and button ([#42546](https://github.com/expo/expo/pull/42546) by [@Ubax](https://github.com/Ubax))
 
 ### 🐛 Bug fixes
+
 
 ### 💡 Others
 
