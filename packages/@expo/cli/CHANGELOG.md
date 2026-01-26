@@ -12,6 +12,8 @@
 
 ### 💡 Others
 
+- Refactor to replace GraphQL fetch client ([#42556](https://github.com/expo/expo/pull/42556) by [@kitten](https://github.com/kitten))
+
 ## 55.0.3 — 2026-01-26
 
 ### 🎉 New features
