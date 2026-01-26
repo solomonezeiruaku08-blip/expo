@@ -99,6 +99,7 @@ _This version does not introduce any user-facing changes._
 - remount native tabs, when visibility is changed ([#42329](https://github.com/expo/expo/pull/42329) by [@Ubax](https://github.com/Ubax))
 - Update react-navigation to latest version ([#42379](https://github.com/expo/expo/pull/42379) by [@Ubax](https://github.com/Ubax))
 - Improve error handling in `useLoaderData()` hook ([#42260](https://github.com/expo/expo/pull/42260) by [@hassankhan](https://github.com/hassankhan))
+- [ios] activate native zoom preventDismissal only when hook is used ([#42533](https://github.com/expo/expo/pull/42533) by [@Ubax](https://github.com/Ubax))
 
 ### 💡 Others
 
