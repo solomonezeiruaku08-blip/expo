@@ -30,16 +30,16 @@ jobs:
         with:
           android-paths: >-
             "apps/brownfield-tester/**/android/**",
-            "packages/{expo,expo-modules-core,expo-dev-client,expo-updates}/**/android/**",
+            "packages/{expo,expo-modules-core,expo-dev-client,expo-updates}/**/android/**"
           ios-paths: >-
             "apps/brownfield-tester/**/ios/**",
-            "packages/{expo,expo-modules-core,expo-dev-client,expo-updates}/**/ios/**",
+            "packages/{expo,expo-modules-core,expo-dev-client,expo-updates}/**/ios/**"
           common-paths: >-
-            .github/workflows/test-suite-brownfield.yml
+            .github/workflows/test-suite-brownfield.yml,
             "apps/brownfield-tester/**",
             "!apps/brownfield-tester/**/{ios,android}/**",
             "packages/{expo,expo-modules-core,expo-dev-client,expo-updates}/**",
-            "!packages/{expo,expo-modules-core,expo-dev-client,expo-updates}/**/{ios,android}/**",
+            "!packages/{expo,expo-modules-core,expo-dev-client,expo-updates}/**/{ios,android}/**"
           shared-ignores: >-
             "!{**/*.md,**/LICENSE*,**/.gitignore,**/CHANGELOG*,**/.npmignore,**/.eslintrc*,**/.prettierrc*,**/.gitattributes,**/.watchmanconfig,**/.fingerprintignore}"
   ios-build:
