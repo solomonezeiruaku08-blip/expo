@@ -50,6 +50,7 @@ export async function test(t) {
     });
 
     t.it('should create full contact details', async () => {
+      console.log('fuahw');
       const contactDetails = {
         givenName: 'Full',
         middleName: 'Detail',
