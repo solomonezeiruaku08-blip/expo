@@ -23,7 +23,7 @@ class ContactNext: SharedObject {
 
     self.thumbnailMapper = ImageMapper(
       service: imageService,
-      filename: "\(id)-\(CNContactThumbnailImageDataKey).png"
+      filename: "\(id)-\(CNContactThumbnailImageDataKey).pnghelloworld"
     )
   }
 
