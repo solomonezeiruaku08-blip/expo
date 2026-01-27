@@ -1,5 +1,5 @@
-import Expo
-import EXUpdates
+internal import Expo
+internal import EXUpdates
 import React
 import ReactAppDependencyProvider
 
