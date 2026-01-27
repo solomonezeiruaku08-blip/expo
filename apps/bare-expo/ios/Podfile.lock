@@ -3835,7 +3835,7 @@ SPEC CHECKSUMS:
   ExpoScreenCapture: 1e3c504caceb931f69b18ecdf83b6621a361832f
   ExpoScreenOrientation: b1132e629e693752bad0459169d5a065d0e95243
   ExpoSecureStore: b345eb1a13f148f1daf256736cb278f845522eee
-  ExpoSensors: 588956297c059b725c031b1d035cdc8afd69ff78
+  ExpoSensors: d0fac0d2e1f606e899d1707d50d0c22cb9e816cf
   ExpoSharing: dd11fa3c0516ca80b4c6de63bc5d47ef8934b7b0
   ExpoSMS: 695947e435e3ea97ffd8d2ea33f3a8b5a3f77e30
   ExpoSpeech: 6794ef75a9880338989fba9a6a33764924f9f018
